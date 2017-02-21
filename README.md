@@ -14,19 +14,19 @@ Here's how you do it:
 
 2. Regardless of how you installed Anaconda, now go to your command line. Type the following lines:
 
-'''
+```
 conda create -n geodemo python=2.7
-'''
+```
 This creates a python 2.7 (the version I used for the demo and the version ArcPy uses) environment called 'geodemo'.
-'''
+```
 source activate geodemo
-'''
+```
 This activates the environment.
-'''
+```
 conda install -c conda-forge geopandas folium jupyter geojson
-'''
+```
 This uses [conda forge](https://conda-forge.github.io/) to install the geopandas, folium, jupyter, and geojson libraries. We'll be making use of all of them!
 
 3. Once everything is finished installing, type "jupyter notebook." Navigate to where you've downloaded the notebook from this git repo and start tinkering.
 
-##Have fun!
+## Have fun!
