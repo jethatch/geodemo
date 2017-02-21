@@ -27,6 +27,6 @@ conda install -c conda-forge geopandas folium jupyter geojson
 ```
 This uses [conda forge](https://conda-forge.github.io/) to install the geopandas, folium, jupyter, and geojson libraries. We'll be making use of all of them!
 
-3. Once everything is finished installing, type "jupyter notebook." Navigate to where you've downloaded the notebook from this git repo and start tinkering.
+**Once everything is finished installing, type "jupyter notebook." Navigate to where you've downloaded the notebook from this git repo and start tinkering.**
 
 ## Have fun!
