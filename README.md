@@ -6,7 +6,7 @@ If you click on the notebook file, github will actually render (most) of the not
 If that's all you want, great! Enjoy.
 If you'd like to start tinkering with GeoPandas and the demonstration yourself, you're going to need to follow a few more steps.
 
-The demonstration was written in python using a Jupyter notebook. I made use of the folium and GeoPandas libraries. That means that you're going to need _all_ of those 'things' - python, Jupyter, folium, and GeoPandas. There are **a lot** of ways to install and configure python and its many libraries; however, for the sake of tidyness [and a lot of other reasons](https://www.continuum.io/why-anaconda), I recommend you use something called **Anaconda** to set everything up. 
+The demonstration was written in python using a Jupyter notebook. I made use of the folium and GeoPandas libraries. That means that you're going to need _all_ of those 'things' - python, Jupyter, folium, and GeoPandas. There are **a lot** of ways to install and configure python and its many libraries; however, for the sake of tidiness [and a lot of other reasons](https://www.continuum.io/why-anaconda), I recommend you use something called **Anaconda** to set everything up. 
 
 Here's how you do it:
 
