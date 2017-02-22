@@ -17,11 +17,11 @@ Here's how you do it:
 ```
 conda create -n geodemo python=2.7
 ```
-This creates a python 2.7 (the version I used for the demo and the version ArcPy uses) environment called 'geodemo'.
+This creates a python 2.7 (the version I used for the demo and the version ArcPy uses) environment called 'geodemo'. Next we're going to activate the environment. In Linux and OS X, you use the following command:
 ```
 source activate geodemo
 ```
-This activates the environment.
+You can look up how to do this on windows (and a host of other commands) [here](https://conda.io/docs/using/envs.html). Finally, with the environment activated, type:
 ```
 conda install -c conda-forge geopandas folium jupyter geojson
 ```
