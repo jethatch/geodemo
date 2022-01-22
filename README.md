@@ -1,4 +1,4 @@
-## A brief demonstration on spatial and aspatial queries using Geopandas
+## A brief demonstration of spatial and aspatial queries using Geopandas
 
 This repository contains the Jupyter Notebook I used to demonstrate spatial queries during class.
 If you click on the notebook file, github will actually render (most) of the notebook itself. You can then see the static results of everything we did in class _except_ for the leaflet map.
